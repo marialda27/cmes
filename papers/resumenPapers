@@ -25,3 +25,18 @@ Berger 2012: "The prominence/coronal cavity system: a unified view of magnetic s
               
 Bi 2013: "Analysis of simultaneous rotation and non-radial propagation of an eruptive filament"
           Analiza observacionalmente donde sigue el filamento en AIA principalmente. Estudia latitud, longitud
+          y rotación en función del tiempo. También calcula la velocidad y aceleración.
+      
+Bi 2014: "Solar filament material oscillations and drainge"
+          Mide oscilaciones y su velocidad, la función de altura del filamento que tiene un leve ascenso a medida
+          que oscila. Calcula masa y densidad del filamento y CME.
+          
+Byrne 2010: "Propagation of an Earth-directed CME in three dimensions"
+             Sigue y modela un evento con datos de T-P entre 2 y 46 radios solares, calcula la velocidad de la
+             CME (~100 km/s).
+             
+Cabello 2016: "First simultaneous views of the axial and lateral perspectives of a CME"
+               Proponen una relación de tamaño que se mantiene duranter la expansión de la CME entre sus ejes "largo" y "ancho"
+               (corte cilindrico de la medialuna). Usan Forward Modeling.
+               
+
