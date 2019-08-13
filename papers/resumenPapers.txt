@@ -54,6 +54,12 @@ CH_Pascoe 2014: "Fast magnetoacoustic wave trains in coronal holes"
                  
 CH_Titov 2010: "Magnetic topology of coronal holes linkages"
                 Estudian los "bordes" de los CH y los puntos nulos o separatrices que se forman analíticamente.
+                
+Landi 2010: "PHYSICAL CONDITIONS IN A CORONAL MASS EJECTION FROM HINODE, STEREO, AND SOHO OBSERVATIONS"
+            Empieza a medir las propiedades de una eyección desde 1.1 a 1.9 solar radii. (0.1R ~ 70Mm)
+            
+Savage 2010: "RECONNECTION OUTFLOWS AND CURRENT SHEET OBSERVED WITHHINODE/XRTIN THE 2008 APRIL 9 “CARTWHEEL CME” FLARE"
+            Analiza un caso con SB y mide que el punto nulo está a 170Mm. La CME se deflecta.
 
                 
 Xie 2009: "On the Origin, 3D Structure and Dynamic Evolution of CMEs Near Solar Minimum"
