@@ -58,8 +58,14 @@ CH_Titov 2010: "Magnetic topology of coronal holes linkages"
 Landi 2010: "PHYSICAL CONDITIONS IN A CORONAL MASS EJECTION FROM HINODE, STEREO, AND SOHO OBSERVATIONS"
             Empieza a medir las propiedades de una eyección desde 1.1 a 1.9 solar radii. (0.1R ~ 70Mm)
             
+Patsourakos 2011: "Evidence for a current sheet forming in the wake of a coronal mass ejection from multi-viewpoint coronagraph observations"
+            En la figura 10, muestran el perfil de densidad electronica, desde 3.3 (2310Mm) a 3.8 (2660Mm) radios solares. Es del orden de 10^7.
+            
 Savage 2010: "RECONNECTION OUTFLOWS AND CURRENT SHEET OBSERVED WITHHINODE/XRTIN THE 2008 APRIL 9 “CARTWHEEL CME” FLARE"
             Analiza un caso con SB y mide que el punto nulo está a 170Mm. La CME se deflecta.
+            
+Tripathi 2009: "TEMPERATURE TOMOGRAPHY OF A CORONAL SIGMOID SUPPORTING THE GRADUAL FORMATION OF A FLUX ROPE"
+                Habla de la formación de un FR
 
                 
 Xie 2009: "On the Origin, 3D Structure and Dynamic Evolution of CMEs Near Solar Minimum"
