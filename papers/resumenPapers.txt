@@ -40,9 +40,9 @@ Cabello 2016: "First simultaneous views of the axial and lateral perspectives of
                (corte cilindrico de la medialuna). Usan Forward Modeling.
                
 Chen 2000: "AN EMERGING FLUX TRIGGER MECHANISM FOR CORONAL MASS EJECTIONS"
-               Simula eyecciones de CME dentro de un canal filamentario y al lado de un canal filamentario. La segunda opcion
-               deflecta a la CME. No usa una linea de dipolos, sino una configuración cuadrupolar. Utiliza una densidad numerica
-               de 10^9/cm^3, sin gravedad. El campo B=25G con beta=0.01. La altura del FR es 200Mm. Temperatura coronal 1MK.
+            Simula eyecciones de CME dentro de un canal filamentario y al lado de un canal filamentario. La segunda opcion
+            deflecta a la CME. No usa una linea de dipolos, sino una configuración cuadrupolar. Utiliza una densidad numerica
+            de 10^9/cm^3, sin gravedad. El campo B=25G con beta=0.01. La altura del FR es 200Mm. Temperatura coronal 1MK.
                
 CH_Pascoe 2013: "Fast magnetoacoustic wave trains in magnetic funnels of the solar corona"
                  Dan la forma funcional de funnels que son estructuras magnéticas con lineas de campo abiertas y sobre densidad.
@@ -56,19 +56,25 @@ CH_Titov 2010: "Magnetic topology of coronal holes linkages"
                 Estudian los "bordes" de los CH y los puntos nulos o separatrices que se forman analíticamente.
                 
 Landi 2010: "PHYSICAL CONDITIONS IN A CORONAL MASS EJECTION FROM HINODE, STEREO, AND SOHO OBSERVATIONS"
-            Empieza a medir las propiedades de una eyección desde 1.1 a 1.9 solar radii. (0.1R ~ 70Mm)
+             Empieza a medir las propiedades de una eyección desde 1.1 a 1.9 solar radii. (0.1R ~ 70Mm)
             
-Patsourakos 2011: "Evidence for a current sheet forming in the wake of a coronal mass ejection from multi-viewpoint coronagraph observations"
-            En la figura 10, muestran el perfil de densidad electronica, desde 3.3 (2310Mm) a 3.8 (2660Mm) radios solares. Es del orden de 10^7.
+Lemen 2012: "The Atmospheric Imaging Assembly (AIA) on the Solar Dynamic Obserbatory (SDO)"
+             Información tecnica sobre los filtros de AIA, función de respuesta a la temperatura de cada longitud de onda. 
+            
+Patsourakos 2011: "Evidence for a current sheet forming in the wake of a coronal mass ejection from multi-viewpoint coronagraph
+                   observations"   
+                   En la figura 10, muestran el perfil de densidad electronica, desde 3.3 (2310Mm) a 3.8 (2660Mm) radios solares.
+                   Es del orden de 10^7.
             
 Savage 2010: "RECONNECTION OUTFLOWS AND CURRENT SHEET OBSERVED WITHHINODE/XRTIN THE 2008 APRIL 9 “CARTWHEEL CME” FLARE"
-            Analiza un caso con SB y mide que el punto nulo está a 170Mm. La CME se deflecta.
+              Analiza un caso con SB y mide que el punto nulo está a 170Mm. La CME se deflecta.
             
 Tripathi 2009: "TEMPERATURE TOMOGRAPHY OF A CORONAL SIGMOID SUPPORTING THE GRADUAL FORMATION OF A FLUX ROPE"
                 Habla de la formación de un FR
 
                 
 Xie 2009: "On the Origin, 3D Structure and Dynamic Evolution of CMEs Near Solar Minimum"
-            Muestra que un SB actua como un pozo de potencial y deflecta a una CME, si es lenta su velocidad. Si es rápida no la deflecta tanto.
+           Muestra que un SB actua como un pozo de potencial y deflecta a una CME, si es lenta su velocidad. Si es rápida no la
+           deflecta tanto.
             
             
